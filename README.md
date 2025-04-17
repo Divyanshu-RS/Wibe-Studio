@@ -189,22 +189,6 @@ Wibe-Studio/
 
 <hr />
 
-<h2>🚀 Getting Started</h2>
-
-<h4>1. Clone the repository</h4>
-<pre><code>git clone https://github.com/Divyanshu-RS/Wibe-Studio.git
-cd Wibe-Studio</code></pre>
-
-<h4>2. Install dependencies</h4>
-<pre><code>npm install</code></pre>
-
-<h4>3. Run locally</h4>
-<pre><code>npm run dev</code></pre>
-
-<h4>4. Build for production</h4>
-<pre><code>npm run build</code></pre>
-
-<hr />
 
 <h2>✍️ About the Creator</h2>
 <p>Built with ❤️ by <a href="https://divyanshu0212.github.io/Divyanshu_Ranjan_Singh.github.io/" target="_blank">Divyanshu Ranjan Singh</a></p>
