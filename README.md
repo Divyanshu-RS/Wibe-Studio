@@ -22,7 +22,10 @@
 <hr />
 
 <h2>📸 Preview</h2>
-<p><img src="https://user-images.githubusercontent.com/your-preview-image.png" alt="Wibe Studio Preview" /></p>
+![HOME](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-Home-Desktop.png)
+![ABOUT](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-About-Desktop.png)
+![HOME](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-Home-Moblie.png)
+![ABOUT](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-About-Mobile.png)
 
 <hr />
 
