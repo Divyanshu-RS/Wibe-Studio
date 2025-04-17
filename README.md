@@ -20,6 +20,20 @@
 </ul>
 
 <hr />
+<h2>📸 Preview</h2>
+
+<h3>🖥️ Desktop View</h3>
+<p>
+  <img src="https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-Home-Desktop.png?raw=true" alt="Home Desktop" width="100%" />
+  <img src="https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-About-Desktop.png?raw=true" alt="About Desktop" width="100%" />
+</p>
+
+<h3>📱 Mobile View</h3>
+<p>
+  <img src="https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-Home-Moblie.png?raw=true" alt="Home Mobile" width="49%" />
+  <img src="https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-About-Mobile.png?raw=true" alt="About Mobile" width="49%" />
+</p>
+<hr />
 
 <h2>🔧 Tech Stack</h2>
 <table>
@@ -167,6 +181,12 @@ Wibe-Studio/
   </tbody>
 </table>
 
+### Famous Quotes Used:
+"Fashion is the armour to survive the reality of everyday life."<br />
+-- bill cunningham
+
+"One is never over-dressed or under-dressed with a Little Black Dress." —Karl Lagerfeld<br />
+
 <hr />
 
 <h2>🚀 Getting Started</h2>
@@ -206,12 +226,6 @@ cd Wibe-Studio</code></pre>
   <li>Smooth scroll made possible with <strong>Locomotive Scroll</strong>.</li>
   <li>Animations powered by <strong>GSAP</strong> and <strong>Framer Motion</strong>.</li>
 </ul>
-
-### Famous Quotes Used:
-"Fashion is the armour to survive the reality of everyday life."<br />
--- bill cunningham
-
-"One is never over-dressed or under-dressed with a Little Black Dress." —Karl Lagerfeld<br />
 
 
 <p><strong>⭐ Feel free to star the repo if you find it useful!</strong></p>
