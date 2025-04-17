@@ -21,9 +21,6 @@
 
 <hr />
 
-
-<hr />
-
 <h2>🔧 Tech Stack</h2>
 <table>
   <thead>
@@ -81,6 +78,96 @@ Wibe-Studio/
 </pre>
 
 <hr />
+<h3>📦 All The Resources Used in This Website Are from👇:</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Resource</th>
+      <th>Credit</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Walking Girl Video</td>
+      <td>cottonbro</td>
+      <td><a href="https://www.pexels.com/@cottonbro" target="_blank">pexels.com/@cottonbro</a></td>
+    </tr>
+    <tr>
+      <td>Ring</td>
+      <td>Arif Syuhada</td>
+      <td><a href="https://www.pexels.com/@arifsyd15" target="_blank">pexels.com/@arifsyd15</a></td>
+    </tr>
+    <tr>
+      <td>Rings</td>
+      <td>cottonbro</td>
+      <td><a href="https://www.pexels.com/@cottonbro" target="_blank">pexels.com/@cottonbro</a></td>
+    </tr>
+    <tr>
+      <td>Earings</td>
+      <td>say straight</td>
+      <td><a href="https://www.pexels.com/@say-straight-1400349" target="_blank">pexels.com/@say-straight-1400349</a></td>
+    </tr>
+    <tr>
+      <td>White Tee</td>
+      <td>cottonbro</td>
+      <td><a href="https://www.pexels.com/@cottonbro" target="_blank">pexels.com/@cottonbro</a></td>
+    </tr>
+    <tr>
+      <td>Black T-shirt Girl</td>
+      <td>Lena Hsvl</td>
+      <td><a href="https://www.pexels.com/@lenaneva" target="_blank">pexels.com/@lenaneva</a></td>
+    </tr>
+    <tr>
+      <td>Red Girl</td>
+      <td>Yaroslava Borz</td>
+      <td><a href="https://www.pexels.com/@yaroslava-borz-126286496" target="_blank">pexels.com/@yaroslava-borz-126286496</a></td>
+    </tr>
+    <tr>
+      <td>Ethnic Wear</td>
+      <td>Artem Beliaikin</td>
+      <td><a href="https://www.pexels.com/@belart84" target="_blank">pexels.com/@belart84</a></td>
+    </tr>
+    <tr>
+      <td>Suit</td>
+      <td>Chloe</td>
+      <td><a href="https://www.pexels.com/@chloekalaartist" target="_blank">pexels.com/@chloekalaartist</a></td>
+    </tr>
+    <tr>
+      <td>Cap Male</td>
+      <td>cottonbro</td>
+      <td><a href="https://www.pexels.com/@cottonbro" target="_blank">pexels.com/@cottonbro</a></td>
+    </tr>
+    <tr>
+      <td>Watches</td>
+      <td>Mister Mister</td>
+      <td><a href="https://www.pexels.com/@bemistermister" target="_blank">pexels.com/@bemistermister</a></td>
+    </tr>
+    <tr>
+      <td>Denim</td>
+      <td>Denis Zagorodniuc</td>
+      <td><a href="https://www.pexels.com/@imdennyz" target="_blank">pexels.com/@imdennyz</a></td>
+    </tr>
+    <tr>
+      <td>Jacket</td>
+      <td>Simon Robben</td>
+      <td><a href="https://www.pexels.com/@simon-robben-55958" target="_blank">pexels.com/@simon-robben-55958</a></td>
+    </tr>
+    <tr>
+      <td>Yellow T-shirt</td>
+      <td>RAUL REYNOSO</td>
+      <td><a href="https://www.pexels.com/@raulkingr" target="_blank">pexels.com/@raulkingr</a></td>
+    </tr>
+    <tr>
+      <td>Yellow Dress</td>
+      <td>Godisable Jacob</td>
+      <td><a href="https://www.pexels.com/@godisable-jacob-226636" target="_blank">pexels.com/@godisable-jacob-226636</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
 
 <h2>🚀 Getting Started</h2>
 
@@ -109,7 +196,7 @@ cd Wibe-Studio</code></pre>
 <hr />
 
 <h2>📄 License</h2>
-<p>This project is licensed under the <a href="LICENSE" target="_blank">MIT License</a>.</p>
+<p>This project is licensed under the <a href="LICENSE" target="_blank">CC0 1.0 License</a>.</p>
 
 <hr />
 
@@ -119,5 +206,12 @@ cd Wibe-Studio</code></pre>
   <li>Smooth scroll made possible with <strong>Locomotive Scroll</strong>.</li>
   <li>Animations powered by <strong>GSAP</strong> and <strong>Framer Motion</strong>.</li>
 </ul>
+
+### Famous Quotes Used:
+"Fashion is the armour to survive the reality of everyday life."<br />
+-- bill cunningham
+
+"One is never over-dressed or under-dressed with a Little Black Dress." —Karl Lagerfeld<br />
+
 
 <p><strong>⭐ Feel free to star the repo if you find it useful!</strong></p>
